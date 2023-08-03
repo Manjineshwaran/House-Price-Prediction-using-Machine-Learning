@@ -4,5 +4,7 @@ This project is about creating a machine learning model that can predict the hou
 Numpy, Pandas,Matplotlib, Seaborn and Sklearn.
 # Machine Learning Algorithms
 Linear Regression
+
 Decesion Tree
+
 Random Forest
